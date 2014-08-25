@@ -10,3 +10,6 @@
 [submodule "dep/lur"]
 	path = dep/lur
 	url = git@github.com:komiga/lurker.git
+[submodule "asset"]
+	path = asset
+	url = ./asset/
