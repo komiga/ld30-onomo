@@ -7,9 +7,6 @@
 [submodule "dep/lovebird"]
 	path = dep/lovebird
 	url = git@github.com:rxi/lovebird.git
-[submodule "dep/lur"]
-	path = dep/lur
-	url = git@github.com:komiga/lurker.git
 [submodule "asset"]
 	path = asset
 	url = ./asset/
